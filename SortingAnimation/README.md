@@ -1,1 +1,1 @@
-# animation1
+# Main file is AnimationTester.java
